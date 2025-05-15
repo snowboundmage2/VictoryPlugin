@@ -13,18 +13,20 @@
 	"EnabledByDefault" : true,
 	"CanContainContent" : false,
 	"IsBetaVersion" : false,
-	"Installed" : true,
+	"Installed": false,
 	"RequiresBuildPlatform" : false,
 	"Modules" :
 	[
 		{
 			"Name" : "VictoryBPLibrary",
 			"Type" : "Runtime",
-			"LoadingPhase" : "PreDefault",
+			"LoadingPhase" : "Default",
 			"WhitelistPlatforms" :
 			[
 				"Win64",
 				"Win32",
+				"Linux",
+				"Mac"
 			]
 		}
 	],
