@@ -12,7 +12,7 @@ Special Linux Build instructions:
 
 # Software License
 
-https://forums.unrealengine.com/development-discussion/blueprint-visual-scripting/4014-39-rama-s-extra-blueprint-nodes-for-you-as-a-plugin-no-c-required?p=1718286#post1718286
+MIT Software License for The Victory Plugin
 
 ♥
 
